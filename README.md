@@ -37,7 +37,7 @@ app.get('/fitur', (req, res) => {
   res.send(`Hello, ${text}!`);
 });
 ```
-
+ 
 Contoh URL: /fitur?text=John
 
 ## 4. Menggunakan req.params
